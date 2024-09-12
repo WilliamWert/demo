@@ -1,5 +1,6 @@
 import json
 
+#change this too
 # a simple json array
 MYJSON = """
 {
